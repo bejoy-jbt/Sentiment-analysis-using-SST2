@@ -1,6 +1,6 @@
 # Sentiment Analysis Tool
 
-A Python tool for analyzing sentiment in text using the Hugging Face Transformers library and pre-trained DistilBERT model.
+A Python tool for analyzing sentiment in text using the Hugging Face Transformers library and pre-trained SST2 model.
 
 ## Overview
 
